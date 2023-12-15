@@ -12,6 +12,7 @@ This is a Python application that helps you monitor flight prices and notifies y
 
 <h3>Requirements:</h3>
 
+- Make sure to have the required versions by running `pip install -r requirements.txt`
 - Make sure to create your own keys for the following services:
 
 1) Sheety:
