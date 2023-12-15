@@ -1,7 +1,5 @@
 <h1>Flight Deals Tracker Overview</h1>
 
----
-
 This is a Python application that helps you monitor flight prices and notifies you when prices drop to your desired levels. This tool is designed to make it easier for users to find the best deals on flights and save money on their travels.
 
 <h3>Features:</h3> 
